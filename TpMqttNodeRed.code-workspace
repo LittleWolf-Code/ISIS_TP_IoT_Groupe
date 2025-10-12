@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "esp32Button",
+			"path": "esp32Button"
+		},
+		{
+			"name": "esp32dht11",
+			"path": "esp32dht11"
+		},
+		{
+			"name": "esp32led",
+			"path": "esp32led"
+		}
+	],
+	"settings": {}
+}
