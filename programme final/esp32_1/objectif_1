@@ -1,0 +1,5 @@
+1)connecté a ESP32_2 en I2C
+2)recolte donnée GSR
+3)Recolte donnée Capteru cardiaque
+4)envoye les information par I2C a l'ESP_2
+5)Led
